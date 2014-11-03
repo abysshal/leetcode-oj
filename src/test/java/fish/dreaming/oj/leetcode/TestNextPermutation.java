@@ -1,7 +1,7 @@
 /**
  * 
  */
-package fish.dreaming.oj.utils;
+package fish.dreaming.oj.leetcode;
 
 import static org.junit.Assert.*;
 
